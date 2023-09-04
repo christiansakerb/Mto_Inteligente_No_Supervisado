@@ -5,4 +5,13 @@
 </div>
 
 
+## Descripción de las carpetas
+
+- **Códigos:** Esta carpeta contiene los archivos construídos con la analítica de datos del proyecto, realizados en lenguaje de programación Python.
+
+- **Entregas:** Aquí encontrarás los documentos PDF creados para cada una de las respectivas entregas.
+
+- **Imágenes:** Contiene imágenes asociadas al proyecto.
+
+
 
