@@ -20,7 +20,8 @@ En el presente proyecto se pretende encontrar perfiles de clientes (comercios) d
 [Resultados preliminares - Estadística descriptiva](https://github.com/BrayanTorres2/proyecto_final_ANS/blob/1696de5e9138d3603caff9fd938c6188eebb6e5c/C%C3%B3digos/Resultados%20preliminares%20-%20Estad%C3%ADstica%20descriptiva.ipynb)
 
 ##  Entregas
-1. [Propuesta inicial del proyecto](https://github.com/BrayanTorres2/proyecto_final_ANS/tree/8dbf552140b8870eddec15c751c616c712710061/Entregas)
+1. [Propuesta inicial del proyecto](https://github.com/BrayanTorres2/proyecto_final_ANS/blob/caade228123d35a484136cf08a5c3ea47d7802e7/Entregas/Propuesta%20inicial%20del%20proyecto.pdf)
+
 
 ## Autores
 - Christian Ali Saker Barrera
