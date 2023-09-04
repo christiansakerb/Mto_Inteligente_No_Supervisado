@@ -17,8 +17,7 @@
 En el presente proyecto se pretende encontrar perfiles de clientes (comercios) de una empresa de medios de pago colombiana que administra red de datáfonos, para inclusión dentro del plan de mantenimiento de la red. Las variables disponibles para el análisis proporcionan información valiosa sobre el comportamiento de los comercios, como el número de terminales vigentes, quejas y reclamos, transacciones realizadas, tasa de transacciones reversadas, tasas de transacciones negadas, entre otros. Mediante la aplicación de métodos de aprendizaje no supervisado como: Clustering DBSCAN y Jerárquico, se espera depurar, normalizar y procesar la data, en busca de obtener segmentos de comercios bien definidos. Esto ayudaría al negocio a enfocar mejor su plan de mantenimiento de la red, optimizar los recursos y garantizar la operación eficiente de los terminales de punto de venta (Datáfonos), mejorar la calidad de servicio y maximizar sus ingresos, beneficiando tanto al negocio como a sus clientes (comercios). 
 
 ##  Códigos
-[Resultados preliminares - Estadística descriptiva](https://github.com/BrayanTorres2/proyecto_final_ANS/tree/20866c3a47a8a91de07e68f66bfdcaee45bd60f7/C%C3%B3digos)
-
+[Resultados preliminares - Estadística descriptiva](https://github.com/BrayanTorres2/proyecto_final_ANS/blob/1696de5e9138d3603caff9fd938c6188eebb6e5c/C%C3%B3digos/Resultados%20preliminares%20-%20Estad%C3%ADstica%20descriptiva.ipynb)
 
 ##  Entregas
 1. [Propuesta inicial del proyecto](https://github.com/BrayanTorres2/proyecto_final_ANS/tree/8dbf552140b8870eddec15c751c616c712710061/Entregas)
