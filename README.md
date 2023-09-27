@@ -10,7 +10,8 @@
 Video general del proyecto: 
 
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/mxY2ZnVXfd4?si=EHHJPp8wUDE2Xtnt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+[![Texto alternativo](https://img.youtube.com/vi/TU_ID_DE_YOUTUBE/0.jpg)](https://www.youtube.com/embed/mxY2ZnVXfd4?si=EHHJPp8wUDE2Xtnt)
+
 
 ## Descripción de las carpetas
 
