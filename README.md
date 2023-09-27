@@ -6,7 +6,8 @@ https://www.youtube.com/watch?v=mxY2ZnVXfd4
 
   
 </div>
-https://www.youtube.com/watch?v=mxY2ZnVXfd4
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mxY2ZnVXfd4?si=EHHJPp8wUDE2Xtnt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 ## Descripción de las carpetas
 
