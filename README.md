@@ -26,6 +26,11 @@ En el presente proyecto se pretende encontrar perfiles de clientes (comercios) d
 ##  Entregas
 [Propuesta inicial del proyecto](https://github.com/BrayanTorres2/proyecto_final_ANS/blob/caade228123d35a484136cf08a5c3ea47d7802e7/Entregas/Propuesta%20inicial%20del%20proyecto.pdf)
 
+[Entrega final del proyecto](https://github.com/BrayanTorres2/proyecto_final_ANS/blob/ea3add99a471190739d3fa43c36684d2fc438b96/Entregas/Proyecto%20Final%20-%20Entregable%202.pdf)
+
+
+
+
 
 ## Autores
 - Christian Ali Saker Barrera
