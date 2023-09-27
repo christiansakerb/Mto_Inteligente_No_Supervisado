@@ -11,6 +11,8 @@
 
 - **Entregas:** Aquí se encuentran los documentos PDF creados para cada una de las respectivas entregas que consolidan la información del proyecto.
 
+- **Datos:** Se relaciona archivo de muestra dada la confidencialidad de la compañía y sus datos.
+
 - **Imágenes:** Contiene imágenes asociadas al proyecto.
 
 ## Resumen del proyecto
