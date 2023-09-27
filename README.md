@@ -2,10 +2,9 @@
   <h1>Proyecto curso Aprendizaje No Supervisado</h1>
   <h2>IDENTIFICACIÓN DE COMERCIOS PARA PLAN DE MANTENIMIENTO INTELIGENTE EN RED DE DATÁFONOS</h2>
   <img src="Imágenes/Datafono.jpg" alt="Texto alternativo" width="30%">
-  
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mxY2ZnVXfd4?si=EHHJPp8wUDE2Xtnt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 </div>
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/mxY2ZnVXfd4?si=EHHJPp8wUDE2Xtnt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 ## Descripción de las carpetas
 
