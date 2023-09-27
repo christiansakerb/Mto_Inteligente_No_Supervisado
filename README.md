@@ -29,6 +29,12 @@
 - **Imágenes:** Contiene imágenes asociadas al proyecto.
 
 
+
+<div align="center">
+   <img src="Imágenes/Datafono.jpg" alt="Texto alternativo" width="30%">
+
+</div>
+
 ## Resumen del proyecto
 
 En el presente proyecto se pretende encontrar perfiles de clientes (comercios) de una empresa de medios de pago colombiana que administra una red de datáfonos, para inclusión dentro del plan de mantenimiento de la red. Las variables disponibles para el análisis proporcionan información valiosa sobre el comportamiento de los comercios y de sus datáfonos. Mediante la aplicación de métodos de aprendizaje no supervisado como: Clustering DBSCAN y Jerárquico, se espera obtener segmentos de comercios bien definidos. Esto ayudaría al negocio a enfocar mejor su plan de mantenimiento de, optimizar los recursos y garantizar la operación eficiente de los terminales de punto de venta (Datáfonos), mejorar la calidad de servicio y maximizar sus ingresos, beneficiando al negocio y a sus clientes. Los clusters identificados con Clustering Jerárquico lograron capturar comercios altas tasa de reversos o de quejas/reclamos, o con variación transaccional elevada. 
@@ -49,10 +55,6 @@ Con DBSCAN se identificaron clusters que capturan comercios con tasas de quejas 
 
 
 
-<div align="center">
-   <img src="Imágenes/Datafono.jpg" alt="Texto alternativo" width="30%">
-
-</div>
 
 
 
