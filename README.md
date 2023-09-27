@@ -7,10 +7,10 @@
 
 
 
-Video general del proyecto: 
+## Video general del proyecto: 
 
 
-[![Texto alternativo](https://img.youtube.com/vi/TU_ID_DE_YOUTUBE/0.jpg)](https://www.youtube.com/embed/mxY2ZnVXfd4?si=EHHJPp8wUDE2Xtnt)
+[![Video](https://img.youtube.com/vi/TU_ID_DE_YOUTUBE/0.jpg)](https://www.youtube.com/embed/mxY2ZnVXfd4?si=EHHJPp8wUDE2Xtnt)
 
 
 ## Descripción de las carpetas
@@ -25,6 +25,7 @@ Video general del proyecto:
 
 
 ## Resumen del proyecto
+
 En el presente proyecto se pretende encontrar perfiles de clientes (comercios) de una empresa de medios de pago colombiana que administra una red de datáfonos, para inclusión dentro del plan de mantenimiento de la red. Las variables disponibles para el análisis proporcionan información valiosa sobre el comportamiento de los comercios y de sus datáfonos. Mediante la aplicación de métodos de aprendizaje no supervisado como: Clustering DBSCAN y Jerárquico, se espera obtener segmentos de comercios bien definidos. Esto ayudaría al negocio a enfocar mejor su plan de mantenimiento de, optimizar los recursos y garantizar la operación eficiente de los terminales de punto de venta (Datáfonos), mejorar la calidad de servicio y maximizar sus ingresos, beneficiando al negocio y a sus clientes. Los clusters identificados con Clustering Jerárquico lograron capturar comercios altas tasa de reversos o de quejas/reclamos, o con variación transaccional elevada. 
 
 Con DBSCAN se identificaron clusters que capturan comercios con tasas de quejas o reclamos cercanas o mayores al 100% y outliers con problemáticas combinadas. Aunque ambos enfoques permiten identificar comercios con características propicias para inclusión en el plan de mantenimiento, se selecciona DBSCAN como algoritmo final dadas sus bondades. 
