@@ -50,6 +50,12 @@ Con DBSCAN se identificaron clusters que capturan comercios con tasas de quejas 
 
 
 
+<div align="center">
+   <img src="Imágenes/Datafono.jpg" alt="Texto alternativo" width="30%">
+
+</div>
+
+
 
 ## Autores
 - Christian Ali Saker Barrera
