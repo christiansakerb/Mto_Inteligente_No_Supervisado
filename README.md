@@ -10,7 +10,7 @@
 ## Video general del proyecto: 
 
 
-[![Video](https://img.youtube.com/vi/TU_ID_DE_YOUTUBE/0.jpg)](https://www.youtube.com/embed/mxY2ZnVXfd4?si=EHHJPp8wUDE2Xtnt)
+[![Video](https://img.youtube.com/vi/mxY2ZnVXfd4/0.jpg)](https://www.youtube.com/embed/mxY2ZnVXfd4?si=EHHJPp8wUDE2Xtnt)
 
 
 ## Descripción de las carpetas
