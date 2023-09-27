@@ -10,7 +10,12 @@
 ## Video general del proyecto: 
 
 
-[![Texto alternativo](https://img.youtube.com/vi/mxY2ZnVXfd4/0.jpg)](https://www.youtube.com/watch?v=mxY2ZnVXfd4)
+<p align="center">
+  <a href="https://www.youtube.com/watch?v=mxY2ZnVXfd4">
+    <img src="https://img.youtube.com/vi/mxY2ZnVXfd4/0.jpg" alt="Texto alternativo" />
+  </a>
+</p>
+
 
 
 
