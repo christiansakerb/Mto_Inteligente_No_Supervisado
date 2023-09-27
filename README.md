@@ -2,8 +2,11 @@
   <h1>Proyecto curso Aprendizaje No Supervisado</h1>
   <h2>IDENTIFICACIÓN DE COMERCIOS PARA PLAN DE MANTENIMIENTO INTELIGENTE EN RED DE DATÁFONOS</h2>
   <img src="Imágenes/Datafono.jpg" alt="Texto alternativo" width="30%">
-</div>
+https://www.youtube.com/watch?v=mxY2ZnVXfd4
 
+  
+</div>
+https://www.youtube.com/watch?v=mxY2ZnVXfd4
 
 ## Descripción de las carpetas
 
