@@ -1,19 +1,12 @@
 <div align="center">
   <h1>Proyecto curso Aprendizaje No Supervisado</h1>
   <h2>IDENTIFICACIÓN DE COMERCIOS PARA PLAN DE MANTENIMIENTO INTELIGENTE EN RED DE DATÁFONOS</h2>
+  <img src="Imágenes/Datafono.jpg" alt="Texto alternativo" width="30%">
   
 </div>
 
 
 
-## Video general del proyecto: 
-
-
-<p align="center">
-  <a href="https://www.youtube.com/watch?v=mxY2ZnVXfd4">
-    <img src="https://img.youtube.com/vi/mxY2ZnVXfd4/0.jpg" alt="Texto alternativo" />
-  </a>
-</p>
 
 
 
@@ -30,10 +23,6 @@
 
 
 
-<div align="center">
-   <img src="Imágenes/Datafono.jpg" alt="Texto alternativo" width="30%">
-
-</div>
 
 ## Resumen del proyecto
 
@@ -53,6 +42,14 @@ Con DBSCAN se identificaron clusters que capturan comercios con tasas de quejas 
 [Entrega final del proyecto](https://github.com/BrayanTorres2/proyecto_final_ANS/blob/ea3add99a471190739d3fa43c36684d2fc438b96/Entregas/Proyecto%20Final%20-%20Entregable%202.pdf)
 
 
+## Video general del proyecto: 
+
+
+<p align="center">
+  <a href="https://www.youtube.com/watch?v=mxY2ZnVXfd4">
+    <img src="https://img.youtube.com/vi/mxY2ZnVXfd4/0.jpg" alt="Texto alternativo" />
+  </a>
+</p>
 
 
 
